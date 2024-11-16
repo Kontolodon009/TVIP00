@@ -30,35 +30,33 @@ Paramount movie♥️
 Padang TV♥️
 Outdoor channel♥️
 Nesn♥️
-NBA
-Monster jam
-Magnolia network
-FX
-Fox sport 2
-Fox sport 1
-Disney Channel
-Disney jr
-Dora tv
-Discovery family
-Dazn 4
-Dazn 3
-Dazn 2
-Dazn 1
-Allplay ent
-Crime & investigation
-Cozi tv
-Astro supersport 1 2 3
-ABC
-ABC ALASKA
-ACC NETWORK
+NBA♥️
+Monster jam♥️
+Magnolia network♥️
+FX ♥️
+Fox sport 2♥️
+Fox sport 1♥️
+Disney Channel♥️
+Disney jr♥️
+Dora tv♥️
+Discovery family♥️
+Dazn 4 ♥️
+Dazn 3♥️
+Dazn 2♥️
+Dazn 1♥️
+Allplay ent♥️
+Crime & investigation♥️
+Cozi tv♥️
+Astro supersport 1 2 3♥️
+ABC♥️
+ABC ALASKA♥️
+ACC NETWORK♥️
 00S replay
 80s rewind
 90s throwback
 
 
 
-
-Premium movies⬇️⬇️⬇️⬇️⬇️
 
 
 
@@ -159,42 +157,41 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://seeklogo.com/images/N/NESN-logo-90EBEC1C4E-seeklogo.com.gif",NESN
 http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/31637.ts
 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",NBA
+http://Supersonictv.live:8080/live/006779/439866/40465.ts
 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",Monster Jam
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",Magnolia Network
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10390.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",FX
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10402.m3u8
 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",FOX Sport 1
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/1846.ts
 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",FOX Sport 2
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/1847.ts
 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 1
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/247.ts
 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 2
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/248.ts
 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 3
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/249.ts
 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 4
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/250.ts
 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN F1
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/251.ts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="VEVO COUNTRY HD" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png"group-title="SPORTS02",ACC NETWORK
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/9273.ts
 
 
 
@@ -209,33 +206,31 @@ http://fortv.cc:8080/live/70453597/56651433/66302.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="KIDS", RAKUTEN KIDS
 https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DISNEY CHANNEL
+http://vo01.mohdtv.com:8880/live/voby4781/580cde00589286582178/60928.ts
 
 
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="KIDS", Disney Channel
+http://newlife3.wanicelife.com:8880/live/D12m2752/89262761/3142.ts
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="KIDS", Disney JR
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/57349.ts
+
+#EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="",Dora TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="KIDS",Discovery Family
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10387.m3u8
 
 
+#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",Astro Supersport 1
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656970.ts
 
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",Astro Supersport 2
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656971.ts
 
-
-xxx
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",Astro Supersport 3
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656972.ts
 
 
 
@@ -370,13 +365,30 @@ http://Supersonictv.live:8080/live/006779/439866/22906.ts
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="UNCATEGORIZED CHANNEL",Padang TV
 https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
 
+#EXTINF:-1 tvg-id="UseePrime" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="UNCATEGORIZED CHANNEL",AllPlay Ent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="UNCATEGORIZED CHANNEL",Crime & Investigation
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10385.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",Cozi TV
+http://fortv.cc:8080/live/moniquefavor@yahoo.com/moniquefavor@2024/11868.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="UNCATEGORIZED CHANNEL",ABC
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10358.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="UNCATEGORIZED CHANNEL",ABC Alaska
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10359.m3u8
 
+#EXTINF:-1 channel-id="pluto-62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" tvg-chno="160" group-title="UNCATEGORIZED CHANNEL", 00s Replay
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 channel-id="pluto-5f4d86f519358a00072b978e" tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" tvg-chno="170" group-title="UNCATEGORIZED CHANNEL", 90s Throwback
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-
+#EXTINF:-1 channel-id="pluto-5ca525b650be2571e3943c63" tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" tvg-chno="180" group-title="UNCATEGORIZED CHANNEL", 80s Rewind
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 
