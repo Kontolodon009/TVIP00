@@ -7192,31 +7192,8 @@ SPORTS⬇️⬇️⬇️⬇️
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://dl.dropbox.com/s/pd5a9ic6kdnjznu/SUKAN_RTM.jpg" ch-number="111" group-title="SPORTS",SUKAN RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 # https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPORTS",SPOTV
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPORTS",SPOTV2
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="SPORTS",LaLiga TV Hypermotion 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="SPORTS",beIN Sports 1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="SPORTS",beIN Sports 2
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="SPORTS",beIN Sports 3
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png" group-title="SPORTS",beIN Sports 4
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
-#EXTINF:-1 tvg-logo="ttps://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="SPORTS",beIN Sports 5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS",Indosiar.(3)
-#http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/royqep3xryxyqtv/soccer.png" tvg-name="" group-title="SPORTS",Soccer Channel
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
@@ -7259,18 +7236,6 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 http://fortv.cc:8080/live/57252392/57252392/9806.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="SPORTS",ESPN U
 http://fortv.cc:8080/live/57252392/57252392/10255.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png" group-title="SPORTS",Eleven Sport 1
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/49966.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" group-title="SPORTS",Eleven Sport 2
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/49032.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="SPORTS",Eleven Sport 3
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/29371.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPiqVWUQd_8GBVH37gbzBBLq8PiNp3ZKazr6q7ISoxPEmBzrVPfl7tCUW&s=10" group-title="SPORTS",Eleven Sport 4
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/29370.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHLkv2omW-MhDLkKBO4tyuW8PmUhbUlRG0sp3eQAII5ZQIxyMMYeUMK34&s=10" group-title="SPORTS",Eleven Sport 5
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/29369.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDJ8LOF-0B1p9UQdyavhqejgDMHsVtMGH7VDAxeRKFnYCFgBQyekdhnxT&s=10" group-title="SPORTS",Eleven Sport 6
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/29368.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title="SPORTS",DAZN F1
 http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/251.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d06YU1p.png" group-title="SPORTS",DAZN 1
@@ -7287,18 +7252,7 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" group-title="SPORTS",BeinSport Xtra
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="SPORTS",Arena Sport 1
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/46257.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="SPORTS",Arena Sport 2
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/46256.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="SPORTS",Arena Sport 3
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/46255.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo5eCg.png" group-title="SPORTS",Arena Sport 4
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/46254.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo5kGa.png" group-title="SPORTS",Arena Sport 5
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/46253.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo51Eb.png" group-title="SPORTS",Arena Sport 6
-http://vo01.mohdtv.com:8880/live/hdtv6035731AD104/07442025/46252.ts
+
 
 
 KNOWLADGE ⬇️⬇️⬇️⬇️⬇️
