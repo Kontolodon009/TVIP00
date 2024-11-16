@@ -11,6 +11,8 @@ super sport
 ssc
 
 
+#EXTM3U
+
 #EXTINF:-1 tvg-id="SkySportSelect.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbBfUgRPrYjGbXcFIlXpkRK3XHOhbtZ5ZELQ&usqp=CAU" group-title="2. SPORTS",Sky Sport Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
