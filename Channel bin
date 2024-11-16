@@ -7761,6 +7761,114 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
+SPORTS⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
+
+
+#EXTINF:-1 channel-id="pluto-65a9b20f0c7ff50008d3a3b6" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" tvg-chno="235" group-title="SPORTS02", Universal Monsters
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",UNIFI SPORT
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",UFC CHANNEL
+http://fortv.cc:8080/live/57252392/57252392/146293.ts
+ 
+#EXTINF8⁷1 tvg-id="TNTEast.us" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",SPORTNET
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/20938.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",SPORTMAN CHANNEL
+http://extraott.com:900/live/9708461610/1164158489/175792.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",SPECTRUM
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/21842.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="sonyten1.in" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",Sony Sports 1 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="sonyten2.in" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",Sony Sports 2 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="sonyten3.in" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",Sony Sports 3 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="sonyten4.in" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",Sony Sports 4 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="sonyten5.in" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",Sony Sports 5 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",SkySport Racing
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/76842.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",SkySport Main Event
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/35243.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",SkySport Golf
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/35240.ts
+
+#EXTINF:-1 group-title"SPORTS02" tvg-id="SKY SPORT F1" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",SkySport F1
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/35244.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="SKYSPORT ARENA" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" tvg-logo="",SkySport Arena
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/35238.ts
+
+#EXTINF:-1 group-title="RUSH SPORT" tvg-id="SPORTS02" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",RUSH SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://tv14s.xyz:8080/live/753468/894568/99568.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS02" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://seeklogo.com/images/N/NESN-logo-90EBEC1C4E-seeklogo.com.gif",NESN
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/31637.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",NBA
+http://Supersonictv.live:8080/live/006779/439866/40465.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",Monster Jam
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",Magnolia Network
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10390.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",FX
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10402.m3u8
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",FOX Sport 1
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/1846.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",FOX Sport 2
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/1847.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 1
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/247.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 2
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/248.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 3
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/249.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 4
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/250.ts
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN F1
+http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/251.ts
+
+#EXTINF:-1 tvg-id="VEVO COUNTRY HD" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png"group-title="SPORTS02",ACC NETWORK
+http://fortv.cc:8080/live/ethel.evans52@yahoo.com/ethel.evans52@2023/9273.ts
+
 
 
 
