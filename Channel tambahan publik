@@ -1,0 +1,199 @@
+https://pastebin.com/raw/fqAyRpGN
+Universal monster
+Vevo retro rock
+USA NETWORK
+Unifi sport
+UFC CHANNEL
+TV5 monde style 
+Trace urban 
+TNT
+Teen Nick
+The ultimate music
+Sportnet
+Sportman
+Spectrum
+Sony sport 1-5
+Smithsonian channel
+Skysport racing
+Skysport Main event
+Skysport golf
+Skysport F1
+Skysport arena
+Rush sport 
+Rick and morty
+Rakuten tv
+Rakuten kids
+PSJ TV
+Pluto tv all
+Paramount network 
+Paramount movie
+Padang TV
+Outdoor channel
+Nesn
+NBA
+Monster jam
+Magnolia network
+FX
+Fox sport 2
+Fox sport 1
+Disney Channel
+Disney jr
+Dora tv
+Discovery family
+Dazn 4
+Dazn 3
+Dazn 2
+Dazn 1
+Allplay ent
+Crime & investigation
+Cozi tv
+Astro supersport 1 2 3
+ABC
+ABC ALASKA
+ACC NETWORK
+00S replay
+80s rewind
+90s throwback
+
+
+
+
+Premium movies⬇️⬇️⬇️⬇️⬇️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPORTS⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
+
+
+#EXTINF:-1 channel-id="pluto-65a9b20f0c7ff50008d3a3b6" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" tvg-chno="235" group-title="SPORTS02", Universal Monsters
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",UNIFI SPORT
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png",UFC CHANNEL
+http://fortv.cc:8080/live/57252392/57252392/146293.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KIDS⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNCATEGORIZED ?? ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
+
+
+#EXTINF:-1 tvg-id="USANetworkWest.us" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="UNCATEGORIZED CHANNEL",USA Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+
+#EXTINF:-1 group-title="UNCATEGORIZED CHANNEL" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", TV5 Monde Style
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.dens.tv/
+
+
+#EXTINF:-1 tvg-id="TRACE URBAN HD" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png"group-title="UNCATEGORIZED CHANNEL",TRACE URBAN HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="VEVO RETRO ROCK HD" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png"group-title="UNCATEGORIZE CHANNEL",VEVO RETRO ROCK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
