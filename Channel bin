@@ -7857,6 +7857,15 @@ http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/247.ts
 #EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 2
 http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/248.ts
 
+#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",Astro Supersport 1
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656970.ts
+
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",Astro Supersport 2
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656971.ts
+
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png" group-title="SPORTS02",Astro Supersport 3
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656972.ts
+
 #EXTINF:-1 group-title="SPORTS02" tvg-id="" tvg-logo="https://i.ibb.co.com/h2m4J1c/Black-Blue-Minimalist-Modern-Initial-Font-Logo-20240825-031147-0000.png", DAZN 3
 http://vipddho.top:8080/live/VIP0125171292661567/7987364f3a72/249.ts
 
