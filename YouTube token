@@ -2,12 +2,15 @@ xxxn
 
 
 
+#EXTINF:-1 tvg-logo="" tvg-name="lo fi 24/7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",lo fi 24/7
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732013506/ei/Yhk8Z5GgH8qMg8UPhpTRqAI/ip/172.70.188.8/id/HuFYqnbVbzY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51337701/txs/51337701%2C51337702%2C51337703%2C51337704/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAZHGSyNCR8nEKpYyKfku4r6v51MzCHS5xhQUywageQlv7AUuiOKk1T9lXc4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932%2C51348765/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI0X7zFi_pqvY6b9pi79bFR5eedY6MvKL0Jnc0ligwoMAiEAm1ao32zWIdpPTZzzvC5FsZCER5X3OvKj2peAsUJAvGs%3D/file/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" tvg-name="NCS 24/7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",NCS 24/7
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732013578/ei/qhk8Z8KxHdWDjuMPua68yQo/ip/172.70.188.48/id/oWW5TLrrbNo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAWkCFVscDgnvoY-NB-tdmCctzhZSU0FCxLH2pnAKlhdJ3sat2NSW6ulr4YQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932%2C51347747/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQlqG7Qd2sA3sGORilb9YT1Lz4zJ47Q6k5LimJ1q1U-YCIF2oeKhnpLuPgroe6vTqjFXFNgjQmjdcEvWIV2rIu_0Z/file/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" tvg-name="music bot 24/7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",music bot 24/7
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732013631/ei/3xk8Z86cCtbqrtoP2f2juAo/ip/172.71.82.62/id/wdP-WJeKm4k.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51340655/txs/51340226%2C51340227%2C51340228%2C51340229%2C51340653%2C51340654%2C51340655%2C51340656/hfr/1/maudio/1/spc/qtApAbuhuGnQbXzo9xmrzm-lm8ZKgsLwE_4f-cjiVwgM9APErh0zL01ZukgBBKg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932%2C51347747/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWFm4ql0nTfo9NBnACLec-lR5_r2JvuU63c8H_NUcrlACIDVAqjg41ypbBOELMLwnXRWfSf0z0ackfKfD8gdg4Zyw/file/index.m3u8
 
 
